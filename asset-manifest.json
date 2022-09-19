@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce52bb5f.css",
-    "main.js": "/static/js/main.b19b9f64.js",
+    "main.css": "/static/css/main.568821e3.css",
+    "main.js": "/static/js/main.72a731c9.js",
     "static/js/787.a38931a2.chunk.js": "/static/js/787.a38931a2.chunk.js",
     "static/media/aboutcrea.png": "/static/media/aboutcrea.283134cea070514de0a3.png",
     "static/media/equipo de trabajo.png": "/static/media/equipo de trabajo.ca9f12a955b5f3a56a52.png",
@@ -26,12 +26,12 @@
     "static/media/logo_creaq.png": "/static/media/logo_creaq.f782439a7a9bf4bc13d1.png",
     "static/media/help_crea-01.svg": "/static/media/help_crea-01.ff50662842efa4ef6de359a76b4576ea.svg",
     "index.html": "/index.html",
-    "main.ce52bb5f.css.map": "/static/css/main.ce52bb5f.css.map",
-    "main.b19b9f64.js.map": "/static/js/main.b19b9f64.js.map",
+    "main.568821e3.css.map": "/static/css/main.568821e3.css.map",
+    "main.72a731c9.js.map": "/static/js/main.72a731c9.js.map",
     "787.a38931a2.chunk.js.map": "/static/js/787.a38931a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce52bb5f.css",
-    "static/js/main.b19b9f64.js"
+    "static/css/main.568821e3.css",
+    "static/js/main.72a731c9.js"
   ]
 }
