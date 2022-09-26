@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.290339fc.css",
-    "main.js": "/static/js/main.4d450972.js",
+    "main.js": "/static/js/main.06ed362d.js",
     "static/js/787.a38931a2.chunk.js": "/static/js/787.a38931a2.chunk.js",
     "static/media/aboutcrea.png": "/static/media/aboutcrea.283134cea070514de0a3.png",
     "static/media/equipo de trabajo.png": "/static/media/equipo de trabajo.ca9f12a955b5f3a56a52.png",
@@ -28,11 +28,11 @@
     "static/media/help_crea-01.svg": "/static/media/help_crea-01.ff50662842efa4ef6de359a76b4576ea.svg",
     "index.html": "/index.html",
     "main.290339fc.css.map": "/static/css/main.290339fc.css.map",
-    "main.4d450972.js.map": "/static/js/main.4d450972.js.map",
+    "main.06ed362d.js.map": "/static/js/main.06ed362d.js.map",
     "787.a38931a2.chunk.js.map": "/static/js/787.a38931a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.290339fc.css",
-    "static/js/main.4d450972.js"
+    "static/js/main.06ed362d.js"
   ]
 }
